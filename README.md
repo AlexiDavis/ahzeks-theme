@@ -3,7 +3,7 @@ Theme for Ahzek &lt;3
 
 ## Instructions:
 
-1. Go to http://tumblr.com/customize/[your url]
+1. Go to [http://tumblr.com/customize/](http://tumblr.com/customize/){your url}
 2. Where it lists your theme, click "Edit HTML"
 3. Copy all of the index.html file
 4. Paste it over everything in the Edit HTML box
@@ -11,4 +11,4 @@ Theme for Ahzek &lt;3
 Voilà!
 
 If you have any issues, problems, questions, or requests, 
-[my askbox is always open](http://tittenkits.tumblr.com/ask)
+[my askbox is always open](http://tittenkits.tumblr.com/ask) or [use the contact form on my site](http://alexidavis.com/contact)

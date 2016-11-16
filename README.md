@@ -1,5 +1,7 @@
 # ahzeks-theme
-Theme for Ahzek &lt;3
+Theme for Ahzek
+
+##[View demo](http://ahzekstheme.tumblr.com/)
 
 ## Instructions:
 
